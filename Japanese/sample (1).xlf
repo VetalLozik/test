@@ -18,37 +18,6 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <trans-unit id="2" restype="x-xml-p" phase-name="pretrans">
-        <source><ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> assumes no responsibility for any errors or omissions in this document.</source>
-        <seg-source>
-          <mrk mtype="seg" mid="1"><ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> edited second time</mrk>
-        </seg-source>
-        <target state="needs-translation">
-          <mrk mtype="seg" mid="1"><ph id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> が2回目に編集しました</mrk>
-        </target>
-      </trans-unit>
-      <trans-unit id="1" restype="x-xml-p" phase-name="pretrans">
-        <source>The information1111 contained herein is the property of <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and shall not be reproduced in whole or in part without prior written approval of <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>. The information herein is subject to change without notice and should not be construed as a commitment by <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="3">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>. This manual is periodically reviewed and revised.</source>
-        <target state="needs-translation">The information1111 contained herein is the property of <ph id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> and shall not be reproduced in whole or in part without prior written approval of <ph id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>. The information herein is subject to change without notice and should not be construed as a commitment by <ph id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>. This manual is periodically reviewed and revised.</target>
-      </trans-unit>
-      <trans-unit id="3" restype="x-xml-p" phase-name="pretrans">
-        <source>Copyright © <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1">&lt;MadCap:variable name="doc_props.copyright_years" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> by <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</source>
-        <seg-source>
-          <mrk mtype="seg" mid="1">Copyright © <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1">&lt;MadCap:variable name="doc_props.copyright_years" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> by <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk>
-        </seg-source>
-        <target state="needs-translation">
-          <mrk mtype="seg" mid="1">Copyright ©️ <ph id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="doc_props.copyright_years" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph> by <ph id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>.</mrk>
-        </target>
-      </trans-unit>
-      <trans-unit id="4" restype="x-xml-p" phase-name="pretrans">
-        <source>The logo is a registered trademark of. <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></source>
-        <seg-source>
-          <mrk mtype="seg" mid="1">The logo is a registered trademark of. <ph xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk>
-        </seg-source>
-        <target state="needs-translation">
-          <mrk mtype="seg" mid="1">ロゴは登録商標です。 <ph id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:variable name="company.company_name_as" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph></mrk>
-        </target>
-      </trans-unit>
-    </body>
+</body>
   </file>
 </xliff>
