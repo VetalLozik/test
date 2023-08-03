@@ -18,13 +18,7 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <group restype="x-gettext-plurals">
-        <note>tesrr</note>
-        <trans-unit id="::Tesrr[0]">
-          <source>tesrr</source>
-          <target>tesrr</target>
-        </trans-unit>
-      </group>
+      
     </body>
   </file>
 </xliff>
