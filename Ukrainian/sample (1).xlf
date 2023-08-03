@@ -18,25 +18,7 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <group restype="x-gettext-plurals">
-        <note>tesrr</note>
-        <trans-unit id="::Tesrr[0]">
-          <source>tesrr 1</source>
-          <target>теср-1</target>
-        </trans-unit>
-        <trans-unit id="::Tesrr[1]">
-          <source>tesrr</source>
-          <target>теср</target>
-        </trans-unit>
-        <trans-unit id="::Tesrr[2]">
-          <source>tesrr</source>
-          <target>теср</target>
-        </trans-unit>
-        <trans-unit id="::Tesrr[3]">
-          <source>tesrr</source>
-          <target>теср</target>
-        </trans-unit>
-      </group>
+      
     </body>
   </file>
 </xliff>
