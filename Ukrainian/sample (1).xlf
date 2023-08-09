@@ -19,22 +19,22 @@
     </header>
     <body>
       <group restype="x-gettext-plurals">
-        <note>car</note>
-        <trans-unit id="Frame_11::Car[0]">
-          <source>car one</source>
-          <target>один автомобіль</target>
+        <note>reerer</note>
+        <trans-unit id="Frame_10::Reerer[0]">
+          <source>reerer222</source>
+          <target>reerer222</target>
         </trans-unit>
-        <trans-unit id="Frame_11::Car[1]">
-          <source>car</source>
-          <target>автомобіль</target>
+        <trans-unit id="Frame_10::Reerer[1]">
+          <source>reerer</source>
+          <target>reerer</target>
         </trans-unit>
-        <trans-unit id="Frame_11::Car[2]">
-          <source>car</source>
-          <target>автомобіль</target>
+        <trans-unit id="Frame_10::Reerer[2]">
+          <source>reerer</source>
+          <target>reerer</target>
         </trans-unit>
-        <trans-unit id="Frame_11::Car[3]">
-          <source>car</source>
-          <target>автомобіль</target>
+        <trans-unit id="Frame_10::Reerer[3]">
+          <source>reerer</source>
+          <target>reerer</target>
         </trans-unit>
       </group>
     </body>
