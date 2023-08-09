@@ -19,14 +19,14 @@
     </header>
     <body>
       <group restype="x-gettext-plurals">
-        <note>car</note>
-        <trans-unit id="Frame_11::Car[0]">
-          <source>car one</source>
-          <target>auto eins</target>
+        <note>reerer</note>
+        <trans-unit id="Frame_10::Reerer[0]">
+          <source>reerer222</source>
+          <target>reerer222</target>
         </trans-unit>
-        <trans-unit id="Frame_11::Car[1]">
-          <source>car</source>
-          <target>auto</target>
+        <trans-unit id="Frame_10::Reerer[1]">
+          <source>reerer</source>
+          <target>reerer</target>
         </trans-unit>
       </group>
     </body>
