@@ -18,17 +18,7 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <group restype="x-gettext-plurals">
-        <note>reerer</note>
-        <trans-unit id="Frame_10::Reerer[0]">
-          <source>reerer222</source>
-          <target>reerer222</target>
-        </trans-unit>
-        <trans-unit id="Frame_10::Reerer[1]">
-          <source>reerer</source>
-          <target>reerer</target>
-        </trans-unit>
-      </group>
+      
     </body>
   </file>
 </xliff>
