@@ -18,7 +18,64 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      
+      <group restype="x-gettext-plurals">
+        <note>test</note>
+        <trans-unit id="Frame_9::Test[0]">
+          <source>Test one</source>
+          <target>Тест одного</target>
+        </trans-unit>
+        <trans-unit id="Frame_9::Test[1]">
+          <source>Test</source>
+          <target>Тест</target>
+        </trans-unit>
+        <trans-unit id="Frame_9::Test[2]">
+          <source>Test</source>
+          <target>Тест</target>
+        </trans-unit>
+        <trans-unit id="Frame_9::Test[3]">
+          <source>Test</source>
+          <target>Тест</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="Frame_9::Frame_9_test">
+        <source>Test</source>
+        <target>Тест</target>
+        <note>test</note>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <note>qwerty</note>
+        <trans-unit id="Frame_10::Qwerty[0]">
+          <source>qwerty1</source>
+          <target>кверти1</target>
+        </trans-unit>
+        <trans-unit id="Frame_10::Qwerty[1]">
+          <source>qwerty</source>
+          <target>кверти</target>
+        </trans-unit>
+        <trans-unit id="Frame_10::Qwerty[2]">
+          <source>qwerty</source>
+          <target>кверти</target>
+        </trans-unit>
+        <trans-unit id="Frame_10::Qwerty[3]">
+          <source>qwerty</source>
+          <target>кверти</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="Frame_10::Frame_10_qwerty">
+        <source>qwerty</source>
+        <target>кверти</target>
+        <note>qwerty</note>
+      </trans-unit>
+      <trans-unit id="Frame_10::Abra">
+        <source>abra</source>
+        <target>abra</target>
+        <note>abra</note>
+      </trans-unit>
+      <trans-unit id="Frame_10::Dffdsf">
+        <source>dffdsf</source>
+        <target>dffdsf</target>
+        <note>dffdsf</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
