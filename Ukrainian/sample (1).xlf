@@ -18,82 +18,94 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
+      <trans-unit id="Frame_9::Bbbbbbbt">
+        <source>bbbbbbbt</source>
+        <target>bbbbbbt</target>
+        <note>bbbbbbbt</note>
+      </trans-unit>
+      <trans-unit id="Frame_9::Cccccccc">
+        <source>cccccccc</source>
+        <target>ccccc</target>
+        <note>cccccccc</note>
+      </trans-unit>
       <group restype="x-gettext-plurals">
-        <note>aaaaaaaa</note>
-        <trans-unit id="Frame_9::Aaaaaaaa[0]">
-          <source>aaaaaaaa1</source>
-          <target>aaaaaaaaa1</target>
+        <note>aaaaaaa</note>
+        <trans-unit id="Frame_9::Aaaaaaa[0]">
+          <source>aaaaaaa1</source>
+          <target>aaaaaaa1</target>
         </trans-unit>
-        <trans-unit id="Frame_9::Aaaaaaaa[1]">
-          <source>aaaaaaaa</source>
-          <target>ааааааа</target>
+        <trans-unit id="Frame_9::Aaaaaaa[1]">
+          <source>aaaaaaa</source>
+          <target>аааааа</target>
         </trans-unit>
-        <trans-unit id="Frame_9::Aaaaaaaa[2]">
-          <source>aaaaaaaa</source>
-          <target>ааааааа</target>
+        <trans-unit id="Frame_9::Aaaaaaa[2]">
+          <source>aaaaaaa</source>
+          <target>аааааа</target>
         </trans-unit>
-        <trans-unit id="Frame_9::Aaaaaaaa[3]">
-          <source>aaaaaaaa</source>
-          <target>ааааааа</target>
+        <trans-unit id="Frame_9::Aaaaaaa[3]">
+          <source>aaaaaaa</source>
+          <target>аааааа</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
-        <note>bbbbbbbb</note>
-        <trans-unit id="Frame_9::Bbbbbbbb[0]">
-          <source>bbbbbbbb1</source>
-          <target>bbbbbb1</target>
+        <note>dddddddd</note>
+        <trans-unit id="Frame_9::Dddddddd[0]">
+          <source>dddddddd1</source>
+          <target>дддддд1</target>
         </trans-unit>
-        <trans-unit id="Frame_9::Bbbbbbbb[1]">
-          <source>bbbbbbbb</source>
-          <target>ббббб</target>
+        <trans-unit id="Frame_9::Dddddddd[1]">
+          <source>dddddddd</source>
+          <target>ддддд</target>
         </trans-unit>
-        <trans-unit id="Frame_9::Bbbbbbbb[2]">
-          <source>bbbbbbbb</source>
-          <target>ббббб</target>
+        <trans-unit id="Frame_9::Dddddddd[2]">
+          <source>dddddddd</source>
+          <target>ддддд</target>
         </trans-unit>
-        <trans-unit id="Frame_9::Bbbbbbbb[3]">
-          <source>bbbbbbbb</source>
-          <target>ббббб</target>
-        </trans-unit>
-      </group>
-      <group restype="x-gettext-plurals">
-        <note>ccccccc</note>
-        <trans-unit id="Frame_9::Ccccccc[0]">
-          <source>ccccccc1</source>
-          <target>ccccc1</target>
-        </trans-unit>
-        <trans-unit id="Frame_9::Ccccccc[1]">
-          <source>ccccccc</source>
-          <target>ccccc</target>
-        </trans-unit>
-        <trans-unit id="Frame_9::Ccccccc[2]">
-          <source>ccccccc</source>
-          <target>ccccc</target>
-        </trans-unit>
-        <trans-unit id="Frame_9::Ccccccc[3]">
-          <source>ccccccc</source>
-          <target>ccccc</target>
+        <trans-unit id="Frame_9::Dddddddd[3]">
+          <source>dddddddd</source>
+          <target>ддддд</target>
         </trans-unit>
       </group>
-      <group restype="x-gettext-plurals">
-        <note>ddddd</note>
-        <trans-unit id="Frame_9::Ddddd[0]">
-          <source>ddddd1</source>
-          <target>дддд1</target>
-        </trans-unit>
-        <trans-unit id="Frame_9::Ddddd[1]">
-          <source>ddddd</source>
-          <target>дддд</target>
-        </trans-unit>
-        <trans-unit id="Frame_9::Ddddd[2]">
-          <source>ddddd</source>
-          <target>дддд</target>
-        </trans-unit>
-        <trans-unit id="Frame_9::Ddddd[3]">
-          <source>ddddd</source>
-          <target>дддд</target>
-        </trans-unit>
-      </group>
+      <trans-unit id="Frame_10::Aaaaaa">
+        <source>aaaaaa</source>
+        <target>ааааа</target>
+        <note>aaaaaa</note>
+      </trans-unit>
+      <trans-unit id="Frame_10::Bbbbbb">
+        <source>bbbbbb</source>
+        <target>бббб</target>
+        <note>bbbbbb</note>
+      </trans-unit>
+      <trans-unit id="Frame_10::Ccccc">
+        <source>ccccc</source>
+        <target>cк</target>
+        <note>ccccc</note>
+      </trans-unit>
+      <trans-unit id="Frame_10::Dddddd">
+        <source>dddddd</source>
+        <target>дддд</target>
+        <note>dddddd</note>
+      </trans-unit>
+      <trans-unit id="Frame_11::Ggggg">
+        <source>ggggg</source>
+        <target>ggg</target>
+        <note>ggggg</note>
+      </trans-unit>
+      <trans-unit id="Frame_11::Tttttt">
+        <source>tttttt</source>
+        <target>Кравень</target>
+        <note>tttttt</note>
+      </trans-unit>
+      <trans-unit id="Frame_11::Fffffff">
+        <source>fffffff</source>
+        <target>ффф</target>
+        <note>fffffff</note>
+      </trans-unit>
+      <trans-unit id="Frame_11::Jjjjjjjj">
+        <source>jjjjjjjj</source>
+        <target>джайй</target>
+        <note>jjjjjjjj</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
