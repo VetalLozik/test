@@ -18,26 +18,38 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <trans-unit id="Frame_9::Fsdfsdf">
-        <source>fsdfsdf</source>
-        <target state="needs-translation">fsdfsdf</target>
-        <note>fsdfsdf</note>
+      <trans-unit id="Frame_9::Bbbbbb">
+        <source>bbbbbb</source>
+        <target state="needs-translation">bbbbbb</target>
+        <note>bbbbbb</note>
       </trans-unit>
-      <trans-unit id="Frame_9::Adsfas">
-        <source>adsfas</source>
-        <target state="needs-translation">adsfas</target>
-        <note>adsfas</note>
+      <trans-unit id="Frame_9::Ccccccc">
+        <source>ccccccc</source>
+        <target state="needs-translation">ccccccc</target>
+        <note>ccccccc</note>
       </trans-unit>
-      <trans-unit id="Frame_9::Sdfsdf">
-        <source>sdfsdf</source>
-        <target state="needs-translation">sdfsdf</target>
-        <note>sdfsdf</note>
-      </trans-unit>
-      <trans-unit id="Frame_9::Fsdfsdfvvfsdf">
-        <source>fsdfsdfvvfsdf</source>
-        <target state="needs-translation">fsdfsdfvvfsdf</target>
-        <note>fsdfsdfvvfsdf</note>
-      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <note>aaaaaaaa</note>
+        <trans-unit id="Frame_9::Aaaaaaaa[0]">
+          <source>aaaaaaaa1</source>
+          <target state="needs-translation">aaaaaaaa1</target>
+        </trans-unit>
+        <trans-unit id="Frame_9::Aaaaaaaa[1]">
+          <source>aaaaaaaa</source>
+          <target state="needs-translation">aaaaaaaa</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>ddddd</note>
+        <trans-unit id="Frame_9::Ddddd[0]">
+          <source>ddddd1</source>
+          <target state="needs-translation">ddddd1</target>
+        </trans-unit>
+        <trans-unit id="Frame_9::Ddddd[1]">
+          <source>ddddd</source>
+          <target state="needs-translation">ddddd</target>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
