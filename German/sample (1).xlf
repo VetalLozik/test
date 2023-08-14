@@ -18,77 +18,50 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <trans-unit id="Frame_9::Bbbbbbbt">
-        <source>bbbbbbbt</source>
-        <target>bbbbbbbt</target>
-        <note>bbbbbbbt</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_05_22">
+        <source>05:22</source>
+        <target>05:22</target>
+        <note>05_22</note>
       </trans-unit>
-      <trans-unit id="Frame_9::Cccccccc">
-        <source>cccccccc</source>
-        <target>cccccccc</target>
-        <note>cccccccc</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_distance">
+        <source>Distance</source>
+        <target>Distanz</target>
+        <note>distance</note>
       </trans-unit>
-      <group restype="x-gettext-plurals">
-        <note>aaaaaaa</note>
-        <trans-unit id="Frame_9::Aaaaaaa[0]">
-          <source>aaaaaaa1</source>
-          <target>aaaaaa1</target>
-        </trans-unit>
-        <trans-unit id="Frame_9::Aaaaaaa[1]">
-          <source>aaaaaaa</source>
-          <target>aaaaaa</target>
-        </trans-unit>
-      </group>
-      <group restype="x-gettext-plurals">
-        <note>dddddddd</note>
-        <trans-unit id="Frame_9::Dddddddd[0]">
-          <source>dddddddd1</source>
-          <target>dddddddd1</target>
-        </trans-unit>
-        <trans-unit id="Frame_9::Dddddddd[1]">
-          <source>dddddddd</source>
-          <target>dddddddddd</target>
-        </trans-unit>
-      </group>
-      <trans-unit id="Frame_10::Aaaaaa">
-        <source>aaaaaa</source>
-        <target>aaaaa</target>
-        <note>aaaaaa</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_4_8_km">
+        <source>4.8 km</source>
+        <target>4.8 km</target>
+        <note>4_8_km</note>
       </trans-unit>
-      <trans-unit id="Frame_10::Bbbbbb">
-        <source>bbbbbb</source>
-        <target>bbbbb</target>
-        <note>bbbbbb</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_arrival">
+        <source>Arrival</source>
+        <target>Ankunft</target>
+        <note>arrival</note>
       </trans-unit>
-      <trans-unit id="Frame_10::Ccccc">
-        <source>ccccc</source>
-        <target>ccccccc</target>
-        <note>ccccc</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_in_15_min">
+        <source>in 15 min</source>
+        <target>in 15 Minuten</target>
+        <note>in_15_min</note>
       </trans-unit>
-      <trans-unit id="Frame_10::Dddddd">
-        <source>dddddd</source>
-        <target>dddddddd</target>
-        <note>dddddd</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_price">
+        <source>Price</source>
+        <target>Preis</target>
+        <note>price</note>
       </trans-unit>
-      <trans-unit id="Frame_11::Ggggg">
-        <source>ggggg</source>
-        <target>ggggg</target>
-        <note>ggggg</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_8_50">
+        <source>$8.50</source>
+        <target>$8.50</target>
+        <note>8_50</note>
       </trans-unit>
-      <trans-unit id="Frame_11::Tttttt">
-        <source>tttttt</source>
-        <target>ttttttt</target>
-        <note>tttttt</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_find_your_taxi">
+        <source>Find your taxi</source>
+        <target>Finden Sie Ihr Taxi</target>
+        <note>find_your_taxi</note>
       </trans-unit>
-      <trans-unit id="Frame_11::Fffffff">
-        <source>fffffff</source>
-        <target>ffffff</target>
-        <note>fffffff</note>
-      </trans-unit>
-      <trans-unit id="Frame_11::Jjjjjjjj">
-        <source>jjjjjjjj</source>
-        <target>jjjjjjjjj</target>
-        <note>jjjjjjjj</note>
+      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_cancel">
+        <source>Cancel</source>
+        <target>Abbrechen</target>
+        <note>cancel</note>
       </trans-unit>
     </body>
   </file>
