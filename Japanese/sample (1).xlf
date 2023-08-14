@@ -18,26 +18,30 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <trans-unit id="Frame_9::Fsdfsdf">
-        <source>fsdfsdf</source>
-        <target>fsdfsdff</target>
-        <note>fsdfsdf</note>
+      <trans-unit id="Frame_9::Bbbbbb">
+        <source>bbbbbb</source>
+        <target>bbbbbb</target>
+        <note>bbbbbb</note>
       </trans-unit>
-      <trans-unit id="Frame_9::Adsfas">
-        <source>adsfas</source>
-        <target>adsfas</target>
-        <note>adsfas</note>
+      <trans-unit id="Frame_9::Ccccccc">
+        <source>ccccccc</source>
+        <target>cccccc</target>
+        <note>ccccccc</note>
       </trans-unit>
-      <trans-unit id="Frame_9::Sdfsdf">
-        <source>sdfsdf</source>
-        <target>sdfsdff</target>
-        <note>sdfsdf</note>
-      </trans-unit>
-      <trans-unit id="Frame_9::Fsdfsdfvvfsdf">
-        <source>fsdfsdfvvfsdf</source>
-        <target>fsdfsdfvfsdff</target>
-        <note>fsdfsdfvvfsdf</note>
-      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <note>aaaaaaaa</note>
+        <trans-unit id="Frame_9::Aaaaaaaa[0]">
+          <source>aaaaaaaa</source>
+          <target>♪aaaaaaaa♪</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>ddddd</note>
+        <trans-unit id="Frame_9::Ddddd[0]">
+          <source>ddddd</source>
+          <target>dddd</target>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
