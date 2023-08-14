@@ -18,16 +18,6 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <trans-unit id="Frame_9::Bbbbbb">
-        <source>bbbbbb</source>
-        <target state="needs-translation">bbbbbb</target>
-        <note>bbbbbb</note>
-      </trans-unit>
-      <trans-unit id="Frame_9::Ccccccc">
-        <source>ccccccc</source>
-        <target state="needs-translation">ccccccc</target>
-        <note>ccccccc</note>
-      </trans-unit>
       <group restype="x-gettext-plurals">
         <note>aaaaaaaa</note>
         <trans-unit id="Frame_9::Aaaaaaaa[0]">
@@ -37,6 +27,28 @@
         <trans-unit id="Frame_9::Aaaaaaaa[1]">
           <source>aaaaaaaa</source>
           <target state="needs-translation">aaaaaaaa</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>bbbbbbbb</note>
+        <trans-unit id="Frame_9::Bbbbbbbb[0]">
+          <source>bbbbbbbb1</source>
+          <target state="needs-translation">bbbbbbbb1</target>
+        </trans-unit>
+        <trans-unit id="Frame_9::Bbbbbbbb[1]">
+          <source>bbbbbbbb</source>
+          <target state="needs-translation">bbbbbbbb</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>ccccccc</note>
+        <trans-unit id="Frame_9::Ccccccc[0]">
+          <source>ccccccc1</source>
+          <target state="needs-translation">ccccccc1</target>
+        </trans-unit>
+        <trans-unit id="Frame_9::Ccccccc[1]">
+          <source>ccccccc</source>
+          <target state="needs-translation">ccccccc</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
