@@ -18,51 +18,15 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_05_22">
-        <source>05:22</source>
-        <target>05:22</target>
-        <note>05_22</note>
-      </trans-unit>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_distance">
-        <source>Distance</source>
-        <target>Distanz</target>
-        <note>distance</note>
-      </trans-unit>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_4_8_km">
-        <source>4.8 km</source>
-        <target>4.8 km</target>
-        <note>4_8_km</note>
-      </trans-unit>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_arrival">
-        <source>Arrival</source>
-        <target>Ankunft</target>
-        <note>arrival</note>
-      </trans-unit>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_in_15_min">
-        <source>in 15 min</source>
-        <target>in 15 Minuten</target>
-        <note>in_15_min</note>
-      </trans-unit>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_price">
-        <source>Price</source>
-        <target>Preis</target>
-        <note>price</note>
-      </trans-unit>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_8_50">
-        <source>$8.50</source>
-        <target>$8.50</target>
-        <note>8_50</note>
-      </trans-unit>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_find_your_taxi">
-        <source>Find your taxi</source>
-        <target>Finden Sie Ihr Taxi</target>
-        <note>find_your_taxi</note>
-      </trans-unit>
-      <trans-unit id="On_the_way_2::On_the_way_2_on_the_way_2_cancel">
-        <source>Cancel</source>
-        <target>Abbrechen</target>
-        <note>cancel</note>
-      </trans-unit>
+      
+      
+      
+      
+      
+      
+      
+      
+      
     </body>
   </file>
 </xliff>
