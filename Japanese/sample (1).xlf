@@ -18,15 +18,25 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="free_design__frame_16__qweqweqwe">
+        <source>qweqweqwe</source>
+        <target>qweqweqwe</target>
+        <note>qweqweqwe</note>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <note>qweeewqdsad_123</note>
+        <trans-unit id="free_design__frame_16__qweeewqdsad_123[0]">
+          <source>qweeewqdsad123</source>
+          <target>qweeewqdsad123</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>dsasdq_23123</note>
+        <trans-unit id="free_design__frame_16__dsasdq_23123[0]">
+          <source>dsasdq23123</source>
+          <target>dsasdq23123</target>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
