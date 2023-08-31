@@ -18,11 +18,63 @@
       <tool tool-id="MadCap Lingo 10.2" tool-name="Lingo" tool-version="10.2.6786.30644" tool-company="MadCap Software"/>
     </header>
     <body>
-      
-      
-      
-      
-      
+      <trans-unit id="free_design__frame_9__qweeewee">
+        <source>qweeewee</source>
+        <target state="needs-translation">qweeewee</target>
+        <note>qweeewee</note>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <note>qweewq</note>
+        <trans-unit id="free_design__frame_9__qweewq[0]">
+          <source>qweewq 111</source>
+          <target state="needs-translation">qweewq 111</target>
+        </trans-unit>
+        <trans-unit id="free_design__frame_9__qweewq[1]">
+          <source>qweewq</source>
+          <target state="needs-translation">qweewq</target>
+        </trans-unit>
+      </group>
+      <trans-unit id="free_design__frame_10__vvififytsv">
+        <source>ввіфіфйцв</source>
+        <target state="needs-translation">ввіфіфйцв</target>
+        <note>ввіфіфйцв</note>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="free_design__frame_10__віфвфівіфв[0]">
+          <source>віфвфівіфв 1123</source>
+        </trans-unit>
+        <trans-unit id="free_design__frame_10__віфвфівіфв[1]">
+          <source>віфвфівіфв</source>
+        </trans-unit>
+        <note>віфвфівіфв</note>
+      </group>
+      <trans-unit id="free_design__frame_11__one">
+        <source>one</source>
+        <target state="needs-translation">one</target>
+        <note>one</note>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <note>ddsasdddsa</note>
+        <trans-unit id="free_design__frame_11__ddsasdddsa[0]">
+          <source>ddsasdddsa 1</source>
+          <target state="needs-translation">ddsasdddsa 1</target>
+        </trans-unit>
+        <trans-unit id="free_design__frame_11__ddsasdddsa[1]">
+          <source>ddsasdddsa</source>
+          <target state="needs-translation">ddsasdddsa</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>dddsssssddd</note>
+        <trans-unit id="free_design__frame_11__dddsssssddd[0]">
+          <source>dddsssssddd 1</source>
+          <target state="needs-translation">dddsssssddd 1</target>
+        </trans-unit>
+        <trans-unit id="free_design__frame_11__dddsssssddd[1]">
+          <source>dddsssssddd</source>
+          <target state="needs-translation">dddsssssddd</target>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
